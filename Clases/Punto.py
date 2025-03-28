@@ -23,3 +23,4 @@ class Punto:
     
     def distancia(self, vector2):
         return ((self.x - vector2.x) ** 2 + (self.y - vector2.y) ** 2) ** 0.5
+    
